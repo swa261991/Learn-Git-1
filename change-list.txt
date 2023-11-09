@@ -1,2 +1,3 @@
 This line is added to master branch.
 This line is also added to master branch.
+This line is added after adding 2 lines to feature1 branch.
