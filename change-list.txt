@@ -5,3 +5,4 @@ This line is also added to faeture1 branch.
 This line is added after adding 2 lines to feature1 branch.
 This line is added after adding 2 lines to feature1 branch and 1 line to master after that.
 This line is added after adding 2 lines to feature2 branch.
+master-commit-3
